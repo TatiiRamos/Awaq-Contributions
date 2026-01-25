@@ -37,6 +37,9 @@ Actividad constante: Más de 200 contribuciones en el último año.
 
 Trabajo en Equipo: Un 18% de mi actividad total en GitHub son Pull Requests, lo que demuestra mi capacidad para integrarme en equipos de desarrollo profesionales.
 
+🌟 Conclusión y Propósito
+"Mi enfoque como desarrolladora no se limita a escribir código eficiente; busco crear interfaces que faciliten la comunicación en causas urgentes como la conservación ambiental. En proyectos como el 2º Congreso Internacional de Organizaciones Ambientales, cada línea de código en la Agenda o el Carrusel de Ponentes tiene el objetivo de conectar personas y potenciar el impacto de Awaq en el ecosistema global."
+
 📫 Conectemos
 LinkedIn: linkedin.com/in/tatiana-ramos-gpti
 
