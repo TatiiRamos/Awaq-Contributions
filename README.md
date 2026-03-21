@@ -47,4 +47,3 @@ LinkedIn: linkedin.com/in/tatiana-ramos-gpti
 Ubicación: San Fernando, Buenos Aires, Argentina
 
 "Transformando líneas de código en soluciones para un futuro sostenible."
-  lo que se muestras las imagenes no quiero cambiar pero quizas el primer parrafo q dice q actualmente estoy desarrallando, ya que q desde de febrero q sali de organizacion
